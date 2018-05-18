@@ -1,1 +1,1 @@
-![My blog](https://aboutcxj.github.io)
+[My blog](https://aboutcxj.github.io)
